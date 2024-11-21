@@ -60,8 +60,8 @@ def watch(init):
     for i in range(1,100000000000):
         requests.get((requests.get('https://api.adsgram.ai/adv', params=params ,headers=headers).json()['banner']['trackings'][-2])['value'])
         logger.info(f'{i} Ad reward claimed')
-        time.sleep(1)
-        logger.debug('sleeping 1 seconds for the next Ad')
+        time.sleep(150)
+        logger.debug('sleeping 150 seconds for the next Ad')
     #json_data = { 'bet': 1000,'chance': 1}
     #requests.post('https://api.toncircle.org/user/games/upgrade/spin',json=json_data)
     
